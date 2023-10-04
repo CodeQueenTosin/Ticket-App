@@ -16,7 +16,7 @@ func main() {
 	//fmt.Printf
 	//Arrays and Slices
 
-	var bookings = [50]string{"Tomi", Nik}
+	var bookinnngs = [50]string{"Tomi", Nik}
 
 	fmt.Println("Welcome to", conferenceName, "Booking Application")
 	fmt.Println("We have!", totalTickets)
